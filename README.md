@@ -33,4 +33,4 @@ This application currently shows the following algorithms:
 Source code 
 ------------
 
-Source code should be available soon. Currently I am cleaning up and adding documentations. 
+https://github.com/jamesyoon11/algorithm-project
